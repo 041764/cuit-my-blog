@@ -1,0 +1,13 @@
+com/cuit/blog/controller/FollowControllerTest.class
+com/cuit/blog/service/CategoryServiceTest.class
+com/cuit/blog/service/UserServiceTest.class
+com/cuit/blog/service/ArticleServiceTest.class
+com/cuit/blog/BlogIntegrationTest.class
+com/cuit/blog/CuitMyBlogApplicationTests.class
+com/cuit/blog/controller/UserControllerTest.class
+com/cuit/blog/service/FollowServiceTest.class
+com/cuit/blog/controller/CommentControllerTest.class
+com/cuit/blog/controller/CategoryControllerTest.class
+com/cuit/blog/controller/ArticleControllerTest.class
+com/cuit/blog/service/CommentServiceTest.class
+com/cuit/blog/testutil/TestTokenProvider.class

@@ -1,0 +1,13 @@
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/BlogIntegrationTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/CuitMyBlogApplicationTests.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/controller/ArticleControllerTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/controller/CategoryControllerTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/controller/CommentControllerTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/controller/FollowControllerTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/controller/UserControllerTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/service/ArticleServiceTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/service/CategoryServiceTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/service/CommentServiceTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/service/FollowServiceTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/service/UserServiceTest.java
+/Users/liujiajin/IdeaProjects/cuit-my-blog2/backend/src/test/java/com/cuit/blog/testutil/TestTokenProvider.java
